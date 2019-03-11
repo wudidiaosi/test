@@ -9,7 +9,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://qwrert.cn/download/qingteng.ipa</string>
+<string>http://47.107.49.27/download/qingteng.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -18,7 +18,7 @@
 <true/>
 <key>url</key>
 <string>
-https://qwrert.cn/download/ios_download.png
+http://47.107.49.27/download/ios_download.png
 </string>
 </dict>
 <dict>
@@ -28,7 +28,7 @@ https://qwrert.cn/download/ios_download.png
 <true/>
 <key>url</key>
 <string>
-https://qwrert.cn/download/ios_download.png
+http://47.107.49.27/download/ios_download.png
 </string>
 </dict>
 </array>
